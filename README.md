@@ -1,2 +1,2 @@
-# pythonStory
-This is a learning journey of Python
+# MLOPS
+This is a learning journey of MLOPS
