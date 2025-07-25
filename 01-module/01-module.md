@@ -23,3 +23,8 @@
    - Goal: Integrate the model into a production environment.
 10. Monitoring and Maintainance
     - Goal: Ensure the model continues to perform well over time.
+</br>
+
+**What is MLOPS**
+
+<p>MLOps (short for Machine Learning Operations) is a set of practices, tools, and principles that combine Machine Learning (ML) and DevOps to help manage the end-to-end lifecycle of ML models — from development to production, monitoring, and maintenance.</p>
