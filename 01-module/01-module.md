@@ -21,10 +21,31 @@
    - Goal: Improve performance by tuning hyperparameters.
 9. Deployment
    - Goal: Integrate the model into a production environment.
-10. Monitoring and Maintainance
-    - Goal: Ensure the model continues to perform well over time.
-</br>
+10. Monitoring and Maintainance - Goal: Ensure the model continues to perform well over time.
+    </br>
 
 **What is MLOPS**
 
 <p>MLOps (short for Machine Learning Operations) is a set of practices, tools, and principles that combine Machine Learning (ML) and DevOps to help manage the end-to-end lifecycle of ML models — from development to production, monitoring, and maintenance.</p>
+
+### Benefits of MLOPS
+
+_Technical Benefits_
+
+- Automation of ML Pipelines
+- Reproducibility
+- Scalability
+- Continuous Integration & Continuous Deployment (CI/CD)
+
+_Operational Benefits_
+
+- Model Monitoring & Management
+- Collaboration
+- Faster Iteration Cycles
+- Resource Optimization
+
+### Tools and Technologies
+
+- TensorFlow
+- Kubernates
+- MLFlow and more
